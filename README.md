@@ -8,11 +8,11 @@ Automatically post to media sites. Currently supported websites:
 
 1) Install requirements
 
-    pip install selenium
+        pip install selenium
 
 2) Run MediaBot.py (make sure to run it with python 2.7)
 
-while in MediaBot directory...
+	while in MediaBot directory...
 
-    py -2.7 .\MediaBot.py
+    		py -2.7 .\MediaBot.py
 
