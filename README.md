@@ -14,5 +14,5 @@ Automatically post to media sites. Currently supported websites:
 
 	while in MediaBot directory...
 
-    		py -2.7 .\MediaBot.py
+    	py -2.7 .\MediaBot.py
 
